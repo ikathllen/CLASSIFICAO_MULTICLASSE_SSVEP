@@ -19,7 +19,7 @@ Este repositório contém a implementação de uma abordagem para classificaçã
   - Métricas de Avaliação: accuracy_score, confusion_matrix, classification_report
 
 #Como Utilizar
-- Clone o Repositório : git clone https://github.com/seu-usuario/seu-repositorio.git
+- Clone o Repositório : git clone https://github.com/seu-usuario/CLASSIFICAO_MULTICLASSE_SSVEP.git
 - Instale as Dependências
 
 # Contribuições
